@@ -1,4 +1,4 @@
-[![MasterHead](https://www.ameba.com.uy/wp-content/uploads/2016/03/animacion-lobo-2.gif)](https://sinudeveloper.netlify.app)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![MasterHead](https://www.ameba.com.uy/wp-content/uploads/2016/03/animacion-lobo-2.gif)](https://sinudeveloper.netlify.app)
 <h1 align="center">Hi ❤️, I'm SINU GUPTA</h1>
 <h3 align="center">A passionate frontend developer from New Delhi</h3> <br><br><br>
 <img align="right" alt="Coding" width="500" src="https://miro.medium.com/v2/resize:fit:1358/1*IRGHmiGsa16stedQvIaZfw.gif">
