@@ -13,9 +13,9 @@
 
 - 🌱 I’m currently learning **DevOps React Native**
 
-- 👨‍💻 All of my projects are available at [sinudeveloper.me/](sinudeveloper.me/)
+- 👨‍💻 All of my projects are available at my portfolio -<a href="https://sinudeveloper.me/">SINU-DEVELOPER!</a>
 
-- 📝 I regularly write articles on [sinudeveloper.me/](sinudeveloper.me/)
+- 📝 I regularly write articles on my portfolio -<a href="https://sinudeveloper.me/">SINU-DEVELOPER!</a>
 
 - 💬 Ask me about **React, Vue, Gsap, Javascript**
 
