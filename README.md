@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **React, Vue, Gsap, Javascript**
 
-- 📫 How to reach me **Sinuxyz8@gmail.com**
+- 📫 How to reach me **THedevelopersinu@gmail.com**
 
 - ⚡ Fun fact **A skill you learned in the last few years**
 
