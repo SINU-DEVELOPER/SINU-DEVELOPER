@@ -7,7 +7,7 @@
 
 
 
-<p align="left"> <a href="https://www.instagram.com/sinudeveloper/" target="blank"><img src="https://img.shields.io/twitter/follow/sinu_4?logo=twitter&style=for-the-badge" alt="sinu_4" /></a> </p> 
+<p align="left"> <a href="https://www.instagram.com/sinudeveloper/" target="blank"><img src="https://img.shields.io/twitter/follow/sinudeveloper?logo=twitter&style=for-the-badge" alt="sinudev" /></a> </p> 
 
 - 🔭 I’m currently working on **Hybrid Web Application**
 
